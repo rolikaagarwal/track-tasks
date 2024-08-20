@@ -1,14 +1,6 @@
-# **Creating an app using Drag and Drop with React without libraries 👆!**
+# **Creating an app using Drag and Drop **
 
-This time, we are going to implement the functionality to do a Drag & Drop with React JS and without any other external package or library!
-
-&nbsp;
-
-![App demo gif](https://res.cloudinary.com/dnxchppfm/image/upload/v1658172870/posts/dnd/dnd_sxj5en.gif)
-
-&nbsp;
-
-## **Features ⚙️**
+## **Features **
 
 1. Card dragging.
 2. Dropping cards into a container.
@@ -30,7 +22,7 @@ This time, we are going to implement the functionality to do a Drag & Drop with 
 1. Clone the repository (you need to have [Git](https://git-scm.com) installed).
 
 ```shell
-    git clone https://github.com/Franklin361/drag-and-drop-react
+    git clone https://github.com/rolikaagarwal/track-tasks
 ```
 
 2.  Install dependencies of the project.
@@ -44,11 +36,7 @@ This time, we are going to implement the functionality to do a Drag & Drop with 
     npm run dev
 ```
 
-&nbsp;
 
-## **Links ⛓️**
-
-### Demo of the application 🔥
 - 🔗 https://drag-and-drop-react-app.netlify.app/
 
 ### Here's the link to the tutorial in case you'd like to take a look at it! eyes 👀
