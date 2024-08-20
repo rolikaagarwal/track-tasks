@@ -1,6 +1,6 @@
-# **Creating an app using Drag and Drop **
+# Creating an app using Drag and Drop 
 
-## **Features **
+## Features 
 
 1. Card dragging.
 2. Dropping cards into a container.
@@ -8,7 +8,7 @@
 
 &nbsp;
 
-## **Technologies 🧪**
+## Technologies 🧪
 
 - React JS
 - TypeScript
@@ -36,11 +36,3 @@
     npm run dev
 ```
 
-
-- 🔗 https://drag-and-drop-react-app.netlify.app/
-
-### Here's the link to the tutorial in case you'd like to take a look at it! eyes 👀
-
-- 🇲🇽 🔗 https://dev.to/franklin030601/creando-un-app-que-usa-drag-and-drop-con-react-sin-librerias--gm3
-
-- 🇺🇲 🔗 https://dev.to/franklin030601/creating-an-app-using-drag-and-drop-with-react-without-libraries--5cg9
